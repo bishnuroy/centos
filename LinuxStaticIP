@@ -36,6 +36,7 @@ NETWORKING=yes
 HOSTNAME=hostnemae of the server
 GATEWAY=GateWay IP.
 
+#service network restart
 
 
 Redhat7 or CentOS7
@@ -46,4 +47,6 @@ Execute below command
     #nmtui
     
 And configure network interface setup.
+
+##systemctl restart network.service
 
