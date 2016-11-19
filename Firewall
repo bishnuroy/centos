@@ -1,0 +1,22 @@
+##
+
+Stop Firewall 
+
+    # service firewalld stop
+    or
+    #systemctl stop  firewalld.service
+    
+Start Firewall
+
+    # service firewalld start
+    or
+    #systemctl start  firewalld.service
+    
+ Enable Firewall
+ 
+    # systemctl enable firewalld
+    
+ Disable Firewall
+ 
+    # systemctl disable firewalld
+    
