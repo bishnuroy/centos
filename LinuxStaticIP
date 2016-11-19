@@ -38,5 +38,12 @@ GATEWAY=GateWay IP.
 
 
 
+Redhat7 or CentOS7
+-------------------
 
+Execute below command
+
+    #nmtui
+    
+And configure network interface setup.
 
