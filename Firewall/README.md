@@ -8,7 +8,7 @@ In this guide, we will cover how to set up a firewall and the basics of managing
 
 ##
 
-*Stop Firewall 
+*Stop Firewall* 
 
     # service firewalld stop
     or
