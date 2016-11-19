@@ -2,13 +2,13 @@
 
 Ref:  https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-7
 
-#Firewalld is a complete firewall solution available by default on CentOS 7 and Redhat servers. 
-In this guide, we will cover how to set up a firewall and the basics of managing the firewall with the firewall-cmd administrative tool
+**Firewalld is a complete firewall solution available by default on CentOS 7 and Redhat servers. 
+In this guide, we will cover how to set up a firewall and the basics of managing the firewall with the firewall-cmd administrative tool**
 
 
 ##
 
-#Stop Firewall 
+*Stop Firewall 
 
     # service firewalld stop
     or
