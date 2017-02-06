@@ -28,7 +28,7 @@ Sample file as below.
 https://github.com/bishnuroy/centos/blob/master/httpd/abcd.conf
 
 
-        NB: For different Listening port (Listen 50070) have to create different *.config file.
+        NB: For different Listening port (Listen 8080) have to create different *.config file.
   
 Step4:
 
