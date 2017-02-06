@@ -25,7 +25,7 @@ Now create "*.config" file in "/etc/httpd/conf.d/" this path.
 
 Sample file as below.
 
-https://github.ibm.com/CIOCloud/bfringe_logging/blob/restructure/Platforms/http-url-auth/bfcdhnn301.conf
+https://github.com/bishnuroy/centos/blob/master/httpd/abcd.conf
 
 
         NB: For different Listening port (Listen 50070) have to create different *.config file.
